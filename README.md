@@ -28,12 +28,6 @@ Frontend: HTML5, CSS
 Fonts: Google Fonts (e.g., Abril Fatface, Young Serif)
 
 
-🔗 Live Demo
-
-Access the live portfolio here
-
-👉 Portfolio Link:
-
 📝 Open to Feedback: Suggestions for improvements are welcome via Issues or Pull Requests.
 
 📬 Connect With Me
